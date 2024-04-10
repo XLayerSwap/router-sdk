@@ -2484,17 +2484,17 @@ __metadata:
     "@ethersproject/abi": ^5.5.0
     "@types/jest": ^24.0.25
     "@uniswap/swap-router-contracts": ^1.1.0
-    "@xlayerswap/sdk-core": ^4.3.2
-    "@xlayerswap/v2-sdk": ^4.4.1
-    "@xlayerswap/v3-sdk": ^3.12.1
+    "@xlayerswap/sdk-core": ^4.4.0
+    "@xlayerswap/v2-sdk": ^4.5.0
+    "@xlayerswap/v3-sdk": ^3.13.0
     prettier: ^2.4.1
     tsdx: ^0.14.1
   languageName: unknown
   linkType: soft
 
-"@xlayerswap/sdk-core@npm:^4.3.2":
-  version: 4.3.2
-  resolution: "@xlayerswap/sdk-core@npm:4.3.2"
+"@xlayerswap/sdk-core@npm:^4.4.0":
+  version: 4.4.0
+  resolution: "@xlayerswap/sdk-core@npm:4.4.0"
   dependencies:
     "@ethersproject/address": ^5.0.2
     big.js: ^5.2.2
@@ -2502,36 +2502,36 @@ __metadata:
     jsbi: ^3.1.4
     tiny-invariant: ^1.1.0
     toformat: ^2.0.0
-  checksum: 34660ae5c607bce3bac97b67337b75efc90c958f6a3e801a8000d1bd59c10b7e91cc1e3b76664beb723005b4810416cd48eaca51517f864dfd1f958ddc5ba73d
+  checksum: d4d887e45131696021c2614202a0472cff99fc2311c4f14fe5a20bc6b0ad5e97551a45926a3c7f4b6f1ce999d258ffef17becc8105caab24a03aa3252c6b05f3
   languageName: node
   linkType: hard
 
-"@xlayerswap/v2-sdk@npm:^4.4.1":
-  version: 4.4.1
-  resolution: "@xlayerswap/v2-sdk@npm:4.4.1"
+"@xlayerswap/v2-sdk@npm:^4.5.0":
+  version: 4.5.0
+  resolution: "@xlayerswap/v2-sdk@npm:4.5.0"
   dependencies:
     "@ethersproject/address": ^5.0.0
     "@ethersproject/solidity": ^5.0.0
-    "@xlayerswap/sdk-core": ^4.3.2
+    "@xlayerswap/sdk-core": ^4.4.0
     tiny-invariant: ^1.1.0
     tiny-warning: ^1.0.3
-  checksum: 5101f3651d8fc9c2c8668b63275d6b637a889c40dfa70e7a874ee2e664f88b16136a34e82291d7c80b6511cfcef2f54e650dd5b8e54c346d254216e56926a708
+  checksum: 7d47003046e72544432a92eeacd74a1959658f56be215460267d28dc4f5ef2c07484450e55163d16b5b28ebe53f2660ce163d74cdf6f9824747ae4a1aa64541b
   languageName: node
   linkType: hard
 
-"@xlayerswap/v3-sdk@npm:^3.12.1":
-  version: 3.12.1
-  resolution: "@xlayerswap/v3-sdk@npm:3.12.1"
+"@xlayerswap/v3-sdk@npm:^3.13.0":
+  version: 3.13.0
+  resolution: "@xlayerswap/v3-sdk@npm:3.13.0"
   dependencies:
     "@ethersproject/abi": ^5.0.12
     "@ethersproject/solidity": ^5.0.9
     "@uniswap/swap-router-contracts": ^1.2.1
     "@uniswap/v3-periphery": ^1.1.1
     "@uniswap/v3-staker": 1.0.0
-    "@xlayerswap/sdk-core": ^4.3.2
+    "@xlayerswap/sdk-core": ^4.4.0
     tiny-invariant: ^1.1.0
     tiny-warning: ^1.0.3
-  checksum: 63abb1d612af971f2a41bb2503c568a876cfec0fe13d2a495a229751b2e2aa4945b7568f13cb32bb3b3ef8bcdbb974ff2761ed55953e96ee42a53356360bde48
+  checksum: 17a2dfb59df68d7e9a327196a3a5b32a59debbaa1dd77dea4918c2e2ab0d900ee53e43125f06d9367b5ecb701ff030a3b0f0e879409ffd1eac1ccc988f1dc028
   languageName: node
   linkType: hard
 
